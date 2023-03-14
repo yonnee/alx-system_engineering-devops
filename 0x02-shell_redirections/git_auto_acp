@@ -1,4 +1,0 @@
-#!/bin/bash
-git add .
-git commit -m 'custom commit'
-git push
